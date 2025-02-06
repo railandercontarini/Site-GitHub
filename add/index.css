@@ -6,12 +6,20 @@ body {
     background-color: rgb(204,157,248);
 }
 h1 {
-    font-size: 2em;
+    font-size: 3em;
     color: blueviolet;
 }
 h2 {
     font-size: 1.5em;
     color: brown;
+}
+p{
+    font-size: 1.5em;
+    color: blue;
+}
+h3 {
+    font-size: 1.5em;
+    color: black;
 }
 img.lado {
     float: right;
