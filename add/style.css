@@ -5,9 +5,16 @@
 body {
     background-color: rgb(204,157,248);
 }
-
+h1 {
+    font-size: 3em;
+    color: blueviolet;
+}
+p{
+    font-size: 1.5em;
+    color: blue;
+}
 main {
-    background-color: white;
+    background-color: rgb(124, 233, 124);
     width: 560px;
     margin: auto;
     padding: 10px;
